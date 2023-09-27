@@ -1,0 +1,89 @@
+.color-green{
+   
+    background-color: green;
+    height: 200px;
+    border-radius: 90px;
+    width: 200px;
+}
+.color-yellow{
+    background-color: yellow;
+    height: 200px;
+    border-radius: 90px;
+    width: 200px;
+}
+.color-red{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    border-radius: 90px;
+}
+.color-black{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    border-radius: 90px;
+}
+.trafficLight{
+    display: flex;
+    margin: auto;
+    width: 200px;
+    flex-direction: column;
+    border-radius: 90px;
+   
+}
+
+    
+    .T{
+        color: #FF5733; /* Orange */
+        font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-weight: 900;
+      }
+      
+      .R {
+        color: #FFD700; /* Gold */
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      }
+      
+      .A {
+        color: #FF3300; /* Red-Orange */
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      }
+      
+      .F {
+        color: #33FF57; /* Lime Green */
+         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      }
+      
+      .I {
+        color: #3300FF; 
+        font-family: 'Times New Roman', Times, serif;
+      }
+      
+      .L {
+        color: #FF33FF; /* Pink */
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      }
+      
+      .C {
+        color: #33FFFF; /* Cyan */
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+
+      
+      .G {
+        color: #33FF00; /* Green */
+        font-family: fantasy;
+      }
+      
+      .H {
+        color: #9933FF; /* Purple */
+        font-family: cursive;
+      }
+      .title{
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-direction: row;
+        width: 600px;
+        font-size: larger;
+      }
